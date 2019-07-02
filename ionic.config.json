@@ -1,0 +1,7 @@
+{
+  "name": "Sleeptracker",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
